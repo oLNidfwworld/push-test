@@ -1,0 +1,17 @@
+{
+    "name" : "Test App",
+    "short_name" : "Test", 
+    "description": "Testing SW PUSH NOTIFY VANILLA", 
+    "start_url" : "/",
+    "display" : "standalone",
+    "orientation" : "portrait-primary",
+    "background_color" : "#fff",
+    "theme_color" : "#00ffff",
+    "icons" : [
+        {
+            "src" : "/img/logo-md.png",
+            "type" : "image/png",
+            "sizes" : "144x144"
+        }
+    ] 
+}
